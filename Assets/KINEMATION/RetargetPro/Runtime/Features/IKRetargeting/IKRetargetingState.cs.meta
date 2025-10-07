@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e96ff903789d432c91846bed08f8ee4e
+timeCreated: 1710737844
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240060
+  packageName: FPS Animation Ultimate
+  packageVersion: 3.0.0
+  assetPath: Assets/KINEMATION/RetargetPro/Runtime/Features/IKRetargeting/IKRetargetingState.cs
+  uploadId: 763634

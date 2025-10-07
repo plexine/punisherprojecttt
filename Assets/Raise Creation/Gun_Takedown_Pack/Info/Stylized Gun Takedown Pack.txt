@@ -1,0 +1,37 @@
+Upgrade your game with high-quality, stylized Gun Takedown Finisher Animations! This pack is designed to bring smooth, impactful, and cinematic takedown moves to your characters. Featuring a combination of 24 unique takedown animations, this pack includes both single-gun and dual-gun takedown variations, each with its own attack and reaction animations, making a total of 44 animations.
+
+These animations are carefully hand-keyed in Autodesk Maya and are optimized for use in a variety of projects, including third-person shooters, stealth games, action RPGs, and cinematic sequences. (React Animation Values: TZ - 123, RY - 180)
+
+🔥 Why Buy This Pack?
+
+✅ High-Quality Animations – Fluid, realistic, and stylized takedown moves.✅ Single & Dual-Gun Takedowns – Choose from 12 Single-Gun Takedowns and 10 Dual-Gun Takedowns.✅ Total 44 Animations – Includes both attack and reaction animations for seamless gameplay.✅ Cinematic & Versatile – Ideal for stealth games, shooters, and action-adventure games.✅ Game-Ready Animations – Designed for Unreal Engine,✅ Easily Customizable – Can be tweaked to fit different character rigs and gameplay styles.
+
+🔥 Key Features
+
+✔ 2-in-1 Variety – Mix brutal single-gun executions with dynamic dual-wielding finishers✔ Cinematic Impact – Stylized animations with exaggerated motions for maximum visual flair✔ Plug-and-Play – Includes matching react animations with optimized rotation values✔ Multi-Genre Ready – Works for cyberpunk, military, superhero, and rogue-like characters✔ Maya Optimized – Clean rigs and organized files for easy editing
+
+💥 Why Game Devs Need This Pack
+
+    Save Hours – No need to animate complex gun takedowns from scratch
+
+    Elevate Combat – Transform basic shootouts into Hollywood-style action sequences
+
+    Dual Compatibility – Use takedowns for both player characters and NPC enemies
+
+    Seamless Integration – React animations perfectly sync with your hit detection system
+
+🎯 Perfect For:
+
+    FPS games
+
+    Third-person action games
+
+    Stealth takedown systems
+
+    Boss fight finishers
+
+    Character ability animations
+
+Contact: raisecreation14@gmail.com
+
+React Animation Values: TZ - 123, RY - 180
