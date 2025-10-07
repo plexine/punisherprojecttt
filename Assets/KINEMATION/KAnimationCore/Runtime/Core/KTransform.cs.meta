@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d8ef53e57347421a8fcc4468bd018afd
+timeCreated: 1698341198
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240060
+  packageName: FPS Animation Ultimate
+  packageVersion: 3.0.0
+  assetPath: Assets/KINEMATION/KAnimationCore/Runtime/Core/KTransform.cs
+  uploadId: 763634
