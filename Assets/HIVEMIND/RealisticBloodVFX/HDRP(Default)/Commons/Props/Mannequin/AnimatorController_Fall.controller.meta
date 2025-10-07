@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ffb6af681c2de8846bc8dbf6cede9eef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 334130
+  packageName: Realistic Blood VFX (Blood Effects,Blood, Blood VFX)
+  packageVersion: 2.0
+  assetPath: Assets/HIVEMIND/RealisticBloodVFX/HDRP(Default)/Commons/Props/Mannequin/AnimatorController_Fall.controller
+  uploadId: 792144

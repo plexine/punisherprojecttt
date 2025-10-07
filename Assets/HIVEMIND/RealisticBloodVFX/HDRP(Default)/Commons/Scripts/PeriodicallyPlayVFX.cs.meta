@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5c150491c2478344bdcf7baed71d232
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 334130
+  packageName: Realistic Blood VFX (Blood Effects,Blood, Blood VFX)
+  packageVersion: 2.0
+  assetPath: Assets/HIVEMIND/RealisticBloodVFX/HDRP(Default)/Commons/Scripts/PeriodicallyPlayVFX.cs
+  uploadId: 792144

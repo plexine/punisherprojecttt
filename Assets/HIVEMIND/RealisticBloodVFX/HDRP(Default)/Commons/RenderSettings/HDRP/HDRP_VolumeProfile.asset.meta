@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9525555d02730142863c781ef35f8ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 334130
+  packageName: Realistic Blood VFX (Blood Effects,Blood, Blood VFX)
+  packageVersion: 2.0
+  assetPath: Assets/HIVEMIND/RealisticBloodVFX/HDRP(Default)/Commons/RenderSettings/HDRP/HDRP_VolumeProfile.asset
+  uploadId: 792144
